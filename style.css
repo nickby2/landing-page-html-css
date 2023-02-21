@@ -9,7 +9,7 @@
 
 body{
     font-size:100%;
-    background:inear-gradient(68.15deg, #2F2325 16.62%, #8E5D52 85.61%);
+    background:linear-gradient(68.15deg, #2F2325 16.62%, #8E5D52 85.61%);
 }
 
 .cabecalho{
@@ -93,6 +93,7 @@ body{
     align-items: center;
     gap: 24px;
     margin-top: 48px;
+    right: 16px;
 }
 
 .conteudo-secundario-titulo{
